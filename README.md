@@ -61,6 +61,12 @@ The Social Network API is a robust backend application designed to handle the da
 
 Use a tool like Postman or Insomnia to test API endpoints.
 
+
+
+You can view the walkthrough of the API functionality using the link below:
+<https://drive.google.com/file/d/1wk2_tlVCIpRHVvglKJq7qZsihFeStgwa/view?usp=sharing>
+
+
 ---
 
 ## Endpoints
